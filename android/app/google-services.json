@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327964782710",
+    "project_id": "sensordata-57db4",
+    "storage_bucket": "sensordata-57db4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327964782710:android:667f5fff6ed9ea69772f57",
+        "android_client_info": {
+          "package_name": "com.example.gyrosensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327964782710-gnbd8u018dihrb2senbl6bte40la69c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN6zteVbyD5OkhRoOfYDyxWSZuiwHGnsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327964782710-gnbd8u018dihrb2senbl6bte40la69c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
